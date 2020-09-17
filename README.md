@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/Python-v3.8.2-blue"/>
 </p>
 
-</br>
-
 ## Environment
 <p align="justify"> 
   <img src="media/eight_puzzle.png" alt="EightAstar" align="right" width="250">
